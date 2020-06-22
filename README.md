@@ -2,7 +2,7 @@
 ### Description
 Recongition of handwritten digits using different SVM kernel and determination of best Kernel performance.
 
-### Python libraries used
+### Python libraries used 
 
 1. Pandas
 2. Numpy
